@@ -1,0 +1,9 @@
+[X-GNOME-Metatheme]
+Name=Return
+Type=X-GNOME-Metatheme
+Comment=Return Themes
+Encoding=UTF-8
+GtkTheme=Return
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
